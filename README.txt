@@ -1,7 +1,7 @@
 Запуск Backend
 cd path/to/your/backend
 npm install
-nodem server.js
+npm start
 
 Запуск Frontend
 cd path/to/your/frontend
@@ -14,4 +14,5 @@ psql -U postgres
 \l
 \c dog_breeds_db
 \dt
+
 \q
